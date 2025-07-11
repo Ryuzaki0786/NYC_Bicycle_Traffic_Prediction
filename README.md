@@ -1,1 +1,1 @@
-# NYC_Bridges_Prediction
+# NYC Bicycle Traffic Prediction: Regression, Hypothesis Testing & Day Classification
